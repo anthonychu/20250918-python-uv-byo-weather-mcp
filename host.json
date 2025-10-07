@@ -7,9 +7,8 @@
     },
     "customHandler": {
         "description": {
-            "defaultExecutablePath": "uv",
-            "workingDirectory": "",
-            "arguments": ["run", "weather.py"]
+            "defaultExecutablePath": "python",
+            "arguments": ["weather.py"]
         },
         "enableProxyingHttpRequest": true
     }
